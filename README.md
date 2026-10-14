@@ -2,7 +2,7 @@
 
 Personal e-portfolio website (HTML, CSS, JavaScript) for **SC1172: Introduction to Information Technology**.
 
-**Live site:** https://GITHUB_USERNAME.github.io/
+**Live site:** https://upethma.github.io/
 
 ## Sections
 - About Me (short paragraph + photograph)
